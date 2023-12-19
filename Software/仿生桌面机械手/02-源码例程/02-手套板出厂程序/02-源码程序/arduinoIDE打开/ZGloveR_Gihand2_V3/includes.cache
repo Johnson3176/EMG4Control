@@ -1,0 +1,97 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "Servo.h",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "I2Cdev.h",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\I2Cdev"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "ADXL345.h",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_ADXL345"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "EEPROM.h",
+    "Includepath": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\EEPROM\\src"
+  },
+  {
+    "Sourcefile": "\\\\tb-pc\\产品资料\\001-线上产品\\002-机械臂手掌\\002 仿生手掌手套\\仿生移动机械手（Gihand2）\\03-源码例程\\002-手套板出厂程序\\002-源码程序\\ZGloveR_Gihand2_V3\\hex_output\\sketch\\ZGloveR_Gihand2_V3.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\avr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\mbed\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\megaavr\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\nrf52\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\sam\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\samd\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\Servo\\src\\stm32f4\\Servo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\hardware\\arduino\\avr\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\I2Cdev\\I2Cdev.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "F:\\Mixly图形化\\Mixly_WIN\\arduino\\portable\\sketchbook\\libraries\\ZLTech_ADXL345\\ADXL345.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
